@@ -1,5 +1,6 @@
 # ESQR: EScaping data w QR
 Escaping my shits with this fuckin QR code from a few meaningless annoying seperated networks!
+![7yr.de](98AF989E-1C72-4BEC-B7E8-87A3FAFB64DD.jpeg)
 
 ---
 # Data Format
